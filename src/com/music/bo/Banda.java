@@ -13,7 +13,8 @@ public class Banda {
 		public static final String WINES_TABLE_NAME = "wine";
 		
 		@Id
-		public int		wineId;
-		public String 	name;
-		public String 	grape;
+		public int		bandaId;
+		public String 	nombre;
+		public String 	estilo;
+		
 }
